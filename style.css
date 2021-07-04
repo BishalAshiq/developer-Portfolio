@@ -10,7 +10,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 
@@ -66,4 +66,7 @@ background-position: right;
   padding: 10px 40px;
   border-radius: 5px;
 
+}
+.experience-area{
+    display: flex;
 }
