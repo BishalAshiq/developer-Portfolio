@@ -1,26 +1,42 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
  
-.oragne-color {
+h1 {
+    font-size: 50px;
+}
+.orange-color {
     color: orange;
 }
 
 section {
     display: flex;
+
 }
 
 .half-width {
-    width: 70%;
-   padding-left: 5%;
+    width: 50%;
+    padding-left: 2%;
+  
 }
 
-.half-width imag{
-    width: 80%;
+.half-width imag {
+    width: 50%;
+    padding-left: 500px;
 }
 
 .link-Hire {
   background-color: tomato;
+  background-image: linear-gradient(orange, yellow) ;
   color: aliceblue;
-  padding: 10px 40px;;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+
+.bannar-image {
+ background-image: url(images/top-banner.png);
+ background-repeat: no-repeat;
+ margin: auto;
 }
