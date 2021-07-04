@@ -9,3 +9,7 @@ h1 {
 .oragne-color {
     color: orange;
 }
+button {
+    background-color: rgb(243, 121, 77);
+    color: white;
+}
