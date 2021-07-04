@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 
 }
 
@@ -40,4 +41,29 @@ section {
  background-image: url(images/top-banner.png);
  background-repeat: no-repeat;
  margin: auto;
+}
+
+.bannar-another {
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.think-big {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.think-big imag {
+    width: 90%;
+}
+.resume{
+    text-decoration: none;
+  background-color: tomato;
+  background-image: linear-gradient(tomato, orange) ;
+  color: aliceblue;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+
 }
