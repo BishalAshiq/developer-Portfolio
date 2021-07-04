@@ -2,14 +2,25 @@ body {
     font-family: 'Poppins', sans-serif;
 }
  
-h1 {
-     font-size: 60px;
- }
-
 .oragne-color {
     color: orange;
 }
-button {
-    background-color: rgb(243, 121, 77);
-    color: white;
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 70%;
+   padding-left: 5%;
+}
+
+.half-width imag{
+    width: 80%;
+}
+
+.link-Hire {
+  background-color: tomato;
+  color: aliceblue;
+  padding: 10px 40px;;
 }
