@@ -22,11 +22,12 @@ section {
 }
 
 .half-width imag {
-    width: 50%;
-    padding-left: 500px;
+    width: 80%;
+    
 }
 
 .link-Hire {
+    text-decoration: none;
   background-color: tomato;
   background-image: linear-gradient(orange, yellow) ;
   color: aliceblue;
